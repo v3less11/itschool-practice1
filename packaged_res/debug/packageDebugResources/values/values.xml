@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">practice1</string>
+    <string name="clearBtn">Сбросить</string>
+    <string name="counter">0</string>
+    <string name="historyClick"/>
+    <string name="lowBtn">Уменьшить на 1</string>
+    <string name="upBtn">Увеличить на 1</string>
+    <style name="Base.Theme.Practice1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Practice1" parent="Base.Theme.Practice1"/>
+</resources>
