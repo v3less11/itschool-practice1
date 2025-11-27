@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practice1</string>
+    <string name="upBtn">Увеличить на 1</string>
+    <string name="lowBtn">Уменьшить на 1</string>
+    <string name="clearBtn">Сбросить</string>
+    <string name="counter">0</string>
+    <string name="historyClick" />
+
+</resources>
